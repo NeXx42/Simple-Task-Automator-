@@ -1,0 +1,15 @@
+D:\Github\Task Automater\Task Automator\bin\Debug\Task Automator.exe.config
+D:\Github\Task Automater\Task Automator\bin\Debug\Task Automator.exe
+D:\Github\Task Automater\Task Automator\bin\Debug\Task Automator.pdb
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.csproj.AssemblyReference.cache
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.csproj.SuggestedBindingRedirects.cache
+D:\Github\Task Automater\Task Automator\obj\Debug\Task_Automator.Properties.Resources.resources
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.csproj.GenerateResource.cache
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.csproj.CoreCompileInputs.cache
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.exe
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.pdb
+D:\Github\Task Automater\Task Automator\bin\Debug\Newtonsoft.Json.dll
+D:\Github\Task Automater\Task Automator\bin\Debug\Newtonsoft.Json.xml
+D:\Github\Task Automater\Task Automator\obj\Debug\Task Automator.csproj.CopyComplete
+D:\Github\Task Automater\Task Automator\obj\Debug\Task_Automator.Form1.resources
+D:\Github\Task Automater\Task Automator\bin\Debug\Gma.System.MouseKeyHook.dll
